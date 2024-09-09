@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Explorer. Automation Software Developer
+ML Engineer. Data Explorer. Automation Software Developer
 
 
 ## 🌐 Socials:
