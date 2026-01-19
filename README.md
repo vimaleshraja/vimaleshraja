@@ -1,5 +1,5 @@
 # 💫 About Me:
-ML Engineer. Data Explorer. Automation Software Developer
+Passionate Data Scientist. Learning new tools, creating projects everyday
 
 
 ## 🌐 Socials:
