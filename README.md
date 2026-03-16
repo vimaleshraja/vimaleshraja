@@ -1,1 +1,1 @@
-# Learning and building ML and LLM applications.
+Learning and building ML and LLM applications.
