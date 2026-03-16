@@ -27,5 +27,5 @@ Currently, I am expanding into **Large Language Models (LLMs)** and **agent-base
 ---
 
 ## Connect
-LinkedIn:  
-https://www.linkedin.com/in/vimaleshrajakarupiah/
+
+[![LinkedIn](https://img.icons8.com/color/30/linkedin.png)](https://www.linkedin.com/in/vimaleshrajakarupiah/)
