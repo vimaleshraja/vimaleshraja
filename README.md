@@ -6,6 +6,7 @@ I am a **Data Scientist** and **Analytics Engineer** specializing in **semicondu
 I have experience developing **analytical tools**, **automating data workflows**, and building **scalable data pipelines** using **Python** and **SQL**. My background includes working with **large-scale manufacturing datasets** to identify **process variation**, improve **reliability**, and enable faster **engineering insights**.
 
 Currently, I am expanding into **Large Language Models (LLMs)** and **agent-based systems** for **manufacturing workflows**. I am building **LLM-powered tools** and **MCP server infrastructure** to enable **intelligent agents** that support **test engineering**, **product engineering**, and **failure analysis** teams.
+
 ---
 
 ## Interests
